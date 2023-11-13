@@ -8,7 +8,7 @@ This document was built by contributors from the SustainOSS Governance Working G
 - Discourse forum: https://sustainoss.org/
 - Podcast: https://sustainoss.org/
 - Open Collective: https://opencollective.com/sustainoss
-- Slack (#sustainoss and #sustainoss-academia): https://slack.opencollective.com/
+- Slack: https://slack.opencollective.com/ on #sustainoss
 
 ## This website
 
